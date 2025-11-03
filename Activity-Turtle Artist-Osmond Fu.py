@@ -76,8 +76,6 @@ def draw_tree(length, depth):
     t.pendown()
 
 
-# Your code here
-
 draw_grass()
 draw_sun()
 
