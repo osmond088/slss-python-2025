@@ -1,5 +1,5 @@
 # Intro to Sort
-# Author: Ubial
+# Author: Osmond
 # 4 December
 import csv
 

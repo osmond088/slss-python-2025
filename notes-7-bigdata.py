@@ -1,5 +1,5 @@
 # Big Data
-# Author: Osmond Fu
+# Author: Osmond FU
 # 17 November
 
 # Process files
